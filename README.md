@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Isroiljon Ibroximov</h1>
+<h3 align="center">🐍 Python Developer from Uzbekistan 🇺🇿</h3>
 
-<!--
-**ibroximov-dev/ibroximov-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ibroximov-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Learning Backend Development
+- 🌱 Currently learning **FastAPI, PostgreSQL, SQLAlchemy**
+- 🐍 Python enthusiast
+- 📚 Building projects every day
+- 🎯 Goal: Become a Professional Backend Developer
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,postgresql,django,docker,redis,vscode,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ibroximov-dev&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ibroximov-dev&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibroximov-dev&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- Telegram: https://t.me/USERNAME
+- Instagram: https://instagram.com/USERNAME
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
