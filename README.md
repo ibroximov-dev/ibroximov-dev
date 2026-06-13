@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,postgresql,django,docker,redis,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,postgresql,django,docker,redis,vscode" />
 </p>
 
 ---
