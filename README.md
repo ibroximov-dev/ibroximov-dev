@@ -37,8 +37,8 @@
 
 ## 📫 Connect With Me
 
-- Telegram: https://t.me/USERNAME
-- Instagram: https://instagram.com/USERNAME
+- Telegram: https://t.me/ibroximov881
+- Instagram: https://www.instagram.com/ibroximov_881
 
 ---
 
